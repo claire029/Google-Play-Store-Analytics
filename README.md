@@ -73,25 +73,6 @@ select(Rating, Reviews, Installs, Price, Size)
 
 ---
 
-## 📁 Folder Structure
-
-```
-google-playstore-analytics/
-├── data/
-│   └── googleplaystore.csv
-├── R_code/
-│   └── clustering_model.R
-├── visualizations/
-│   └── clusters_pca_plot.png
-├── presentation/
-│   └── initial_approach_presentation.pdf
-├── report/
-│   └── Final_Report_ISM4420.pdf
-└── README.md
-```
-
----
-
 ## 📚 References
 - ISM 4420 Lecture Notes – Dr. Hemang Subramanian
 - Google Play Store Dataset 
