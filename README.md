@@ -80,6 +80,6 @@ select(Rating, Reviews, Installs, Price, Size)
 ---
 
 ## 👩‍💻 Authors
-Anh Hoang 
+Anh Hoang, 
 Christopher Tsiomakidis  
 [LinkedIn](https://www.linkedin.com/in/anhhoang) | [Portfolio](https://github.com/anhhoang)
